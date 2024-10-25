@@ -1,0 +1,51 @@
+{
+    "scrape_timestamp": "2024-10-23T23:44:55.176702",
+    "total_articles": 5,
+    "articles": [
+        {
+            "title": "British shot put record holder Capes dies aged 75",
+            "link": "https://news.google.com/read/CBMiaEFVX3lxTE5HandoWFlyWmVoOTdwMWgtTU14MmYyNGZKb0J4b1JKWXFnMXVLdzZtRUJzSjBMQ1RzaGxLNWEyZ0pINlE2MzNST3Jzd2UzUEczS2RadzNBTlRsN1ZLU1YzbkdTdEJhYy1u?hl=en-GB&gl=GB&ceid=GB%3Aen",
+            "time": "1 hour ago",
+            "source": null,
+            "id": "article_1",
+            "content": "Error fetching content: Page.evaluate: SyntaxError: Invalid or unexpected token\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:234:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+            "fetch_timestamp": "2024-10-23T23:44:31.140225"
+        },
+        {
+            "title": "Why has Trump accused the UK’s Labour Party of election interference?",
+            "link": "https://news.google.com/read/CBMirgFBVV95cUxPMnB1bmhsM2k5T1hBT3IxYTBPX3dwZERUZ0VjZ1Q3NUtLLWNZSTItLVJpMkdNTzYyY1lFZTAzQW9LbUl1MkVPSGZ0YmQ4X2NMRVhiRVZnYmVLRDFUMFRZazBTdGFLRXFhQUdwN1EwVHU2bVlkUnJ0V0N3VTRqZUxYRHVmdGtwTXd1Q3VOVTFORUJ1MVEwN0ZXT0F5LTBQdUJpRWhPODhHT2kwclVaTnfSAbMBQVVfeXFMT0c5VjJrTC1FMXhiM01FNG1wMmpUZlFiN1FCeWItbFNkUFZLVnRabTNpemNLX3djd01YaVE0cVhGVVBPOUt6dkxWdGdhT1hZZUptQjRvUDNoODVUSlJ2Ni03T2pQMjhocy16Qm9MOUNGZXlQX2dJaFBTNnF3MTNpNW95ekhZbHp2bnZxRUY2X1dUYUp1YUZabi1qZmt4eHlHVE5udUVfMjhfcnFBWWRUTjM1cGM?hl=en-GB&gl=GB&ceid=GB%3Aen",
+            "time": "4 hours ago",
+            "source": null,
+            "id": "article_2",
+            "content": "Error fetching content: Page.evaluate: SyntaxError: Invalid or unexpected token\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:234:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+            "fetch_timestamp": "2024-10-23T23:44:36.402299"
+        },
+        {
+            "title": "Man and woman carry out terror attack on Turkish aerospace company",
+            "link": "https://news.google.com/read/CBMirAFBVV95cUxPV09RUE1XandvbnlJQjRTN2xJcFFBZkVHX0M5enhjZjB5S2lYU2hROHBJRlByUFZ1aVVuZlpqRmc2SGpuQzV5eGpYQURZenJ4N3FBX2ZzbW5NaXNpN2ppLVVKUF9OU2ZjM1NNcXFrXy03d1ZnWnNIcnhEM0Nza0oyT1paakUzQjlVVjFHM0R1NE9aeS0yN1VLTEdObzBaQ0tVdVA2dE5uWGFCeG5s?hl=en-GB&gl=GB&ceid=GB%3Aen",
+            "time": "32 minutes ago",
+            "source": null,
+            "id": "article_3",
+            "content": "Error fetching content: Page.evaluate: SyntaxError: Invalid or unexpected token\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:234:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+            "fetch_timestamp": "2024-10-23T23:44:42.054186"
+        },
+        {
+            "title": "Moment farmer binds trespassers to his quad bike ‘like rabbits’ & drives them to police… before HE’S arrest...",
+            "link": "https://news.google.com/read/CBMipwFBVV95cUxQN29HVFFaZzMzekxwVWh1VTlRSWxDaDN0NU12NXlWTWl0VTdFMWRfT0dveGJKU0hKelZFNTB6NmVEQlZOSmJmV2FFTnhqZTc0MlU2bDRvbjViUlBPQzVaR1FLUUdXcXFJclhFR0I2UjR1UGFGeDFpY0JFRFFudzV2ZkJiRWh3Z25FenBDVkdoaE1ITGRKby1iUFJhNVJlSXdVZC1mY3JRb9IBrAFBVV95cUxNX2Z3SEl4T2tteEZpYUVIYU5EVDN6ZWo5RTAzN1JFNkNOOGZua2pjNzh3MEVGODIydm1GS1MyYXdPXzRYbS1tYmYxTUVCZFBlaWkwRmFad3lzUGoxMzhyQjRpWnNqMGZKMElZbjFuV2MtTlZ2c1ZpbU5Cb3F5WlNoR0gwR1lKejU3VXVCMlNmXzZNVDdnVkN0am5MQzktRDhJOHIxMC1rb2dHS1J3?hl=en-GB&gl=GB&ceid=GB%3Aen",
+            "time": "1 hour ago",
+            "source": null,
+            "id": "article_4",
+            "content": "Error fetching content: Page.evaluate: SyntaxError: Invalid or unexpected token\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:234:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+            "fetch_timestamp": "2024-10-23T23:44:47.722349"
+        },
+        {
+            "title": "Starship will change what is possible beyond Earth",
+            "link": "https://news.google.com/read/CBMimwFBVV95cUxPRXlxeVhZQmRyaFFUZWR3UlU4SWRONjFEaUhRN1JJTGNOSzFDemd4TUJidXhsY3BDS1FmakMwYjI3OGxXQlBCWXFxUG9lMUJ6cTh6ZVVHSFpKZmxGVW05MWJGZjNCdjZhZWtiMU5FZnJDcW10cmtHbFk5WE5DazE4VExBYXhPS2ctaU5HQ0hZQkNrOVlSVjB5UEtTTQ?hl=en-GB&gl=GB&ceid=GB%3Aen",
+            "time": "6 days ago",
+            "source": null,
+            "id": "article_5",
+            "content": "Error fetching content: Page.evaluate: SyntaxError: Invalid or unexpected token\n    at eval (<anonymous>)\n    at UtilityScript.evaluate (<anonymous>:234:30)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+            "fetch_timestamp": "2024-10-23T23:44:53.207652"
+        }
+    ]
+}
