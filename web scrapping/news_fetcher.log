@@ -1,0 +1,162 @@
+2024-11-12 08:29:54,929 - INFO - Successfully connected to MongoDB
+2024-11-12 08:29:54,930 - INFO - Starting news fetcher scheduler
+2024-11-12 08:29:54,931 - INFO - Starting news fetch cycle
+2024-11-12 08:30:02,789 - INFO - Navigating to Google News...
+2024-11-12 08:30:06,183 - INFO - Found content with selector: article a.JtKRv
+2024-11-12 08:30:11,291 - INFO - Fetching content for article 1/5: Met Office verdict on where snow will fall in UK as Arctic blast to hit
+2024-11-12 08:30:15,757 - INFO - Fetching content for article 2/5: Haiti: Airlines suspend flights as Spirit plane hit by gunfire
+2024-11-12 08:30:20,252 - ERROR - Error fetching content from https://news.google.com/read/CBMiXEFVX3lxTE1WOW1qYWprSVREMlZEZzV4WE1QUDZtbEtVWnhmcUpxejdKdU4zX3FBNUhZYlNEZF90aWE1cXJLRUROWWdFMzV2UG12Nm1zYjUyeHFQYXZSSnNEQ3RV0gFiQVVfeXFMT1NqTTBEUXdFRTJVaDVkMzkwLUlqQTJpczhNTU9TYkZiOW05aWJNeDFGNDlrQzdjYmpuQVRkM2s3T0d0VUNod2gta2JSTVBCVEYxMkhyM0NYcGw2dFhpOU1HRXc?hl=en-GB&gl=GB&ceid=GB%3Aen: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+2024-11-12 08:30:20,254 - INFO - Fetching content for article 3/5: Kate Middleton supporters slam TV presenter for 'disgusting' remark about Princess of Wales' appeara
+2024-11-12 08:30:24,632 - INFO - Fetching content for article 4/5: Van Nistelrooy given the boot by Ruben Amorim after talks with new Manchester United manager
+2024-11-12 08:30:28,770 - INFO - Fetching content for article 5/5: Ryanair passenger dies on flight to Manchester as ‘chaos’ erupts on plane before pilot forced to mak
+2024-11-12 08:30:32,742 - INFO - Successfully saved 5 articles to MongoDB
+2024-11-12 08:32:19,663 - INFO - MongoDB connection closed
+2024-11-12 08:32:24,903 - ERROR - Fatal error in news fetcher: module 'pymongo.errors' has no attribute 'ConnectionError'
+2024-11-12 08:32:32,159 - ERROR - Fatal error in news fetcher: module 'pymongo.errors' has no attribute 'ConnectionError'
+2024-11-12 08:34:09,984 - INFO - Successfully connected to MongoDB
+2024-11-12 08:34:09,984 - INFO - Starting news fetcher scheduler - Running every 2 minutes with database refresh
+2024-11-12 08:34:09,984 - INFO - Starting news fetch cycle
+2024-11-12 08:34:10,050 - INFO - Cleared 20 articles from database
+2024-11-12 08:34:11,111 - INFO - Navigating to Google News...
+2024-11-12 08:34:14,309 - INFO - Found content with selector: article a.JtKRv
+2024-11-12 08:34:19,442 - INFO - Fetching content for article 1/5: Snow forecast as temperatures to plummet across Scotland
+2024-11-12 08:34:24,244 - INFO - Fetching content for article 2/5: Haiti: Airlines suspend flights as Spirit plane hit by gunfire
+2024-11-12 08:34:28,096 - ERROR - Error fetching content from https://news.google.com/read/CBMiXEFVX3lxTE1WOW1qYWprSVREMlZEZzV4WE1QUDZtbEtVWnhmcUpxejdKdU4zX3FBNUhZYlNEZF90aWE1cXJLRUROWWdFMzV2UG12Nm1zYjUyeHFQYXZSSnNEQ3RV0gFiQVVfeXFMT1NqTTBEUXdFRTJVaDVkMzkwLUlqQTJpczhNTU9TYkZiOW05aWJNeDFGNDlrQzdjYmpuQVRkM2s3T0d0VUNod2gta2JSTVBCVEYxMkhyM0NYcGw2dFhpOU1HRXc?hl=en-GB&gl=GB&ceid=GB%3Aen: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+2024-11-12 08:34:28,096 - INFO - Fetching content for article 3/5: Kate Middleton supporters slam TV presenter for 'disgusting' remark about Princess of Wales' appeara
+2024-11-12 08:34:32,625 - INFO - Fetching content for article 4/5: Ryanair passenger dies on flight to Manchester as ‘chaos’ erupts on plane before pilot forced to mak
+2024-11-12 08:34:36,502 - INFO - Fetching content for article 5/5: Why a Christmas advert has led to 'boycott Boots' trending online
+2024-11-12 08:34:41,190 - INFO - Successfully saved 5 fresh articles to MongoDB
+2024-11-12 08:36:11,229 - INFO - Starting news fetch cycle
+2024-11-12 08:36:11,264 - INFO - Cleared 5 articles from database
+2024-11-12 08:36:12,147 - INFO - Navigating to Google News...
+2024-11-12 08:36:15,465 - INFO - Found content with selector: article a.JtKRv
+2024-11-12 08:36:20,601 - INFO - Fetching content for article 1/5: Snow forecast as temperatures to plummet across Scotland
+2024-11-12 08:36:25,852 - INFO - Fetching content for article 2/5: Haiti: Airlines suspend flights as Spirit plane hit by gunfire
+2024-11-12 08:36:29,546 - ERROR - Error fetching content from https://news.google.com/read/CBMiXEFVX3lxTE1WOW1qYWprSVREMlZEZzV4WE1QUDZtbEtVWnhmcUpxejdKdU4zX3FBNUhZYlNEZF90aWE1cXJLRUROWWdFMzV2UG12Nm1zYjUyeHFQYXZSSnNEQ3RV0gFiQVVfeXFMT1NqTTBEUXdFRTJVaDVkMzkwLUlqQTJpczhNTU9TYkZiOW05aWJNeDFGNDlrQzdjYmpuQVRkM2s3T0d0VUNod2gta2JSTVBCVEYxMkhyM0NYcGw2dFhpOU1HRXc?hl=en-GB&gl=GB&ceid=GB%3Aen: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+2024-11-12 08:36:29,548 - INFO - Fetching content for article 3/5: Kate Middleton supporters slam TV presenter for 'disgusting' remark about Princess of Wales' appeara
+2024-11-12 08:36:34,057 - INFO - Fetching content for article 4/5: Ryanair passenger dies on flight to Manchester as ‘chaos’ erupts on plane before pilot forced to mak
+2024-11-12 08:36:38,033 - INFO - Fetching content for article 5/5: Why a Christmas advert has led to 'boycott Boots' trending online
+2024-11-12 08:36:42,280 - INFO - Successfully saved 5 fresh articles to MongoDB
+2024-11-12 08:37:12,902 - INFO - MongoDB connection closed
+2024-11-12 08:52:11,135 - INFO - Successfully connected to MongoDB
+2024-11-12 08:52:11,135 - INFO - Starting news fetcher scheduler - Running every 2 minutes with database refresh
+2024-11-12 08:52:11,135 - INFO - Starting news fetch cycle
+2024-11-12 08:52:11,175 - INFO - Cleared 2 articles from database
+2024-11-12 08:52:11,858 - INFO - Navigating to Google News...
+2024-11-12 08:52:14,653 - INFO - Found content with selector: article a.JtKRv
+2024-11-12 08:52:19,744 - INFO - Fetching content for article 1/5: Snow forecast as temperatures to plummet across Scotland
+2024-11-12 08:52:24,887 - INFO - Fetching content for article 2/5: Haiti: Airlines suspend flights as Spirit plane hit by gunfire
+2024-11-12 08:52:28,717 - INFO - Fetching content for article 3/5: Kate Middleton supporters slam TV presenter for 'disgusting' remark about Princess of Wales' appeara
+2024-11-12 08:52:32,565 - INFO - Fetching content for article 4/5: Van Nistelrooy given the boot by Ruben Amorim after talks with new Manchester United manager
+2024-11-12 08:52:36,354 - INFO - Fetching content for article 5/5: Ryanair passenger dies on flight to Manchester as ‘chaos’ erupts on plane before pilot forced to mak
+2024-11-12 08:52:40,318 - INFO - Successfully saved 5 fresh articles to MongoDB
+2024-11-12 08:54:20,339 - INFO - Starting news fetch cycle
+2024-11-12 08:54:20,371 - INFO - Cleared 5 articles from database
+2024-11-12 08:54:21,045 - INFO - Navigating to Google News...
+2024-11-12 08:54:24,144 - INFO - Found content with selector: article a.JtKRv
+2024-11-12 08:54:29,249 - INFO - Fetching content for article 1/5: Keir Starmer and Emmanuel Macron pledge ‘unwavering’ support for Ukraine
+2024-11-12 08:54:34,128 - INFO - Fetching content for article 2/5: Snow forecast as temperatures to plummet across Scotland
+2024-11-12 08:54:37,874 - INFO - Fetching content for article 3/5: Kate Middleton supporters slam TV presenter for 'disgusting' remark about Princess of Wales' appeara
+2024-11-12 08:54:41,726 - INFO - Fetching content for article 4/5: Ryanair passenger dies on flight to Manchester as ‘chaos’ erupts on plane before pilot forced to mak
+2024-11-12 08:54:45,612 - INFO - Fetching content for article 5/5: Why a Christmas advert has led to 'boycott Boots' trending online
+2024-11-12 08:54:50,085 - INFO - Successfully saved 5 fresh articles to MongoDB
+2024-11-12 08:56:03,520 - INFO - MongoDB connection closed
+2024-11-13 00:40:16,091 - WARNING - Python-dotenv could not parse statement starting at line 2
+2024-11-13 00:40:16,091 - WARNING - Python-dotenv could not parse statement starting at line 4
+2024-11-13 00:40:16,091 - WARNING - Python-dotenv could not parse statement starting at line 5
+2024-11-13 00:40:26,149 - INFO - Successfully connected to MongoDB
+2024-11-13 00:40:26,150 - INFO - Starting news fetcher scheduler - Running every 2 minutes with database refresh
+2024-11-13 00:40:26,150 - INFO - Starting news fetch cycle
+2024-11-13 00:40:26,717 - INFO - Cleared 5 articles from database
+2024-11-13 00:40:33,605 - INFO - Navigating to Google News...
+2024-11-13 00:40:44,177 - INFO - Found content with selector: article a.JtKRv
+2024-11-13 00:40:49,354 - INFO - Fetching content for article 1/5: Assisted dying could stop harrowing deaths, says MP behind bill
+2024-11-13 00:41:00,277 - INFO - Fetching content for article 2/5: China: Dozens dead as car rams crowd in Zhuhai
+2024-11-13 00:41:05,032 - INFO - Fetching content for article 3/5: Wetherspoons will stop selling major beer brand at all of its pubs within DAYS sparking fury from pu
+2024-11-13 00:41:08,913 - INFO - Fetching content for article 4/5: TV star Erin Jayne Plumber's husband dies suddenly two years after her suicide as kids orphaned
+2024-11-13 00:41:13,021 - INFO - Fetching content for article 5/5: Here are the number of sit-ups experts say you should be able to do for your age
+2024-11-13 00:41:36,804 - ERROR - Error fetching content from https://news.google.com/read/CBMiogFBVV95cUxNV3hLMUpCUDk2RHdtd3lRcVJld2RfOXZRNnFtS1NvWEp4dWhOUTA2aE5vVXdzZzBnWmc1enZEd0stcmFGdXYtcVI3ZXdhRU5IUUZhWVBxSWpUNUowTmZSdVJ2bUdkcmx2Q01nNVZJYmdoNWl2MHZ0RGFLRmdZbVREeWNmQUhXTXB6aGU3TzluWlRoWWFDajI3M2dLRnhmSFhPZXfSAacBQVVfeXFMTjk4STM5MmQzTUZsN1RuS0J1NFNidVpYa1hTLXNMZXJrS3BOZlFpSFM4LUtvcFk4MDEtU3IxdTlOdFUxZmFpVEVHOEcwM3RuSFRBd3lhNGhyVUJDYVBsTTl6aU1UUU9zVDEwNFZkTEZLaHpRUjlYMXVtejg2U2xpVmxJbXFpaVFfTUJhRE1HWk1EdDctR1NndkNIS1BRbVNuWHhjZ2FpVnM?hl=en-GB&gl=GB&ceid=GB%3Aen: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+2024-11-13 00:41:37,465 - INFO - Successfully saved 5 fresh articles to MongoDB
+2024-11-13 00:42:27,484 - INFO - Starting news fetch cycle
+2024-11-13 00:42:27,598 - INFO - Cleared 5 articles from database
+2024-11-13 00:42:28,269 - INFO - Navigating to Google News...
+2024-11-13 00:42:57,816 - INFO - Found content with selector: article a.JtKRv
+2024-11-13 00:43:02,924 - INFO - Fetching content for article 1/5: Assisted dying could stop harrowing deaths, says MP behind bill
+2024-11-13 00:43:12,333 - INFO - Fetching content for article 2/5: China: Dozens dead as car rams crowd in Zhuhai
+2024-11-13 00:43:17,317 - ERROR - Error fetching content from https://news.google.com/read/CBMihAFBVV95cUxQVFlqa1MwNEFrdXpBaHQ5N1ZLeDJ2RVROWk1Tb2Y4WHJyMFl4bi16aG9kVy1hTmsxTjhJM3dqZjBlZGpVTlRkUWo0SElPVUlZWG9xZWhvWHVEU2VNX3JQSzVYUTE5U1NvTUdqNGZ4aWpUb0F5ODlueEQtTVd1TjdkMml4bzjSAYQBQVVfeXFMUDA3TU5pUDNpeHVWNDhQTnJSSTZnWnF5MW9OR0RDdVVLQ0RkZmJGa0M5VFdGOUVHblY2cmI4ZmdFUHBGTldXWmRUakh2YmFmTFhHb3M0bG50RDZvQWw1dmNpdEVPdFQwTEk5b3hBYjc1RTNqS2F1VkxWZmVMV1lxNWQ2eWE5?hl=en-GB&gl=GB&ceid=GB%3Aen: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+2024-11-13 00:43:17,333 - INFO - Fetching content for article 3/5: Wetherspoons will stop selling major beer brand at all of its pubs within DAYS sparking fury from pu
+2024-11-13 00:43:24,204 - ERROR - Error fetching content from https://news.google.com/read/CBMiiwFBVV95cUxQUUZtY1VkWDI5NkxKTHdWQWJoT0JSZ1dkbzZDQkpJRUd6T1VMX1o2NGhoVlc1LUhtZW9GeVlPNUZMbUM4MnQtRi05UHI3Z182SnpKYUctbUpWSWxsbGNURzlZR2xFdnpkMkMwOXdQVEdrQjh1LTdsQlQ0bjZ6bEJ5V05BejBUWU5lRHln0gGQAUFVX3lxTE11WjRzdXRYYkVubXRvZUFvU2IwLUNjYXU3QVF5dDZvQjNWOGF0ZlZET2d3eTFkNjkwSi00c1FnUlRTanlSYThIXzRiUE1Sc0FzT21rM1RLVkNZcXJ2UjA3RnhOM3lFREFNT1NuM3g5YXJoSmFXRnpJYmxxYTE0RHJkWWlmcEpaa3lMc3liTGE0eA?hl=en-GB&gl=GB&ceid=GB%3Aen: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+2024-11-13 00:43:24,206 - INFO - Fetching content for article 4/5: Bride left devastated after no one turns up to her wedding
+2024-11-13 00:43:29,268 - INFO - Fetching content for article 5/5: Nine in ten honey samples from UK retailers fail authenticity test
+2024-11-13 00:43:34,773 - INFO - Successfully saved 5 fresh articles to MongoDB
+2024-11-13 00:45:34,796 - INFO - Starting news fetch cycle
+2024-11-13 00:45:34,954 - INFO - Cleared 5 articles from database
+2024-11-13 00:45:35,646 - INFO - Navigating to Google News...
+2024-11-13 00:45:49,897 - INFO - Found content with selector: article a.JtKRv
+2024-11-13 00:45:55,006 - INFO - Fetching content for article 1/5: Former aide Sue Gray rejects Keir Starmer’s job offer
+2024-11-13 00:46:06,880 - INFO - Fetching content for article 2/5: Green party says Starmer must do more to cut energy use to meet net zero targets – as it happened
+2024-11-13 00:46:11,649 - INFO - Fetching content for article 3/5: Wetherspoons will stop selling major beer brand at all of its pubs within DAYS sparking fury from pu
+2024-11-13 00:46:15,996 - INFO - Fetching content for article 4/5: How many votes did Trump get? Election results in full
+2024-11-13 00:46:39,887 - INFO - Fetching content for article 5/5: Bride left devastated after no one turns up to her wedding
+2024-11-13 00:46:46,317 - INFO - Successfully saved 5 fresh articles to MongoDB
+2024-11-13 00:48:17,165 - INFO - MongoDB connection closed
+2024-11-13 02:10:59,725 - WARNING - Python-dotenv could not parse statement starting at line 2
+2024-11-13 02:10:59,741 - WARNING - Python-dotenv could not parse statement starting at line 4
+2024-11-13 02:10:59,742 - WARNING - Python-dotenv could not parse statement starting at line 5
+2024-11-13 02:11:19,129 - ERROR - Fatal error in news fetcher: module 'pymongo.errors' has no attribute 'ConnectionError'
+2024-11-13 02:11:22,073 - WARNING - Python-dotenv could not parse statement starting at line 2
+2024-11-13 02:11:22,073 - WARNING - Python-dotenv could not parse statement starting at line 4
+2024-11-13 02:11:22,073 - WARNING - Python-dotenv could not parse statement starting at line 5
+2024-11-13 02:11:23,484 - INFO - Successfully connected to MongoDB
+2024-11-13 02:11:23,484 - INFO - Starting news fetcher scheduler - Running every 2 minutes with database refresh
+2024-11-13 02:11:23,484 - INFO - Starting news fetch cycle
+2024-11-13 02:11:23,577 - INFO - Cleared 5 articles from database
+2024-11-13 02:11:24,414 - INFO - Navigating to Google News...
+2024-11-13 02:11:26,707 - INFO - Found content with selector: article a.JtKRv
+2024-11-13 02:11:28,038 - INFO - MongoDB connection closed
+2024-11-13 02:23:11,193 - WARNING - Python-dotenv could not parse statement starting at line 2
+2024-11-13 02:23:11,193 - WARNING - Python-dotenv could not parse statement starting at line 4
+2024-11-13 02:23:11,193 - WARNING - Python-dotenv could not parse statement starting at line 5
+2024-11-13 02:23:12,637 - INFO - Successfully connected to MongoDB
+2024-11-13 02:23:12,637 - INFO - Starting news fetcher scheduler - Running every 2 minutes with database refresh
+2024-11-13 02:23:12,637 - INFO - Starting news fetch cycle
+2024-11-13 02:23:12,756 - INFO - Cleared 0 articles from database
+2024-11-13 02:23:13,417 - INFO - Navigating to Google News...
+2024-11-13 02:23:15,745 - INFO - Found content with selector: article a.JtKRv
+2024-11-13 02:23:20,837 - INFO - Fetching content for article 1/5: Assisted dying: Terminally-ill people discuss proposed new law
+2024-11-13 02:23:25,565 - ERROR - Error fetching content from https://news.google.com/read/CBMiXEFVX3lxTE1GZDNmMkRiNVg3ZFZOY0FBNEYtNzhkQTVFWGYwemNvemFxTVZ0d2lydGp6TXNseU9SY09JS3UxV2pkR0tWR3FBaVppYy04V2ZRWmFqODFQVFBJRmdQ0gFiQVVfeXFMTTJCMFJ2QVFmTU0wRk0zeGRtWjVSZ2hlbzhTTlVhaGNWYnhPdFk3SUoxRkRDWVpSLW13WFJYSlZ0OTJJdXI2TEk2eUxoN2FDcEVPY1FxTTNMczlFSTZCRm93UHc?hl=en-GB&gl=GB&ceid=GB%3Aen: Page.evaluate: Execution context was destroyed, most likely because of a navigation
+2024-11-13 02:23:25,566 - INFO - Fetching content for article 2/5: China: Dozens dead as car rams crowd in Zhuhai
+2024-11-13 02:23:29,063 - INFO - Fetching content for article 3/5: Wetherspoons will stop selling major beer brand at all of its pubs within DAYS sparking fury from pu
+2024-11-13 02:23:32,510 - INFO - Fetching content for article 4/5: TV star Erin Jayne Plumber's husband dies suddenly two years after her suicide as kids orphaned
+2024-11-13 02:23:36,100 - INFO - Fetching content for article 5/5: How many votes did Trump get? Election results in full
+2024-11-13 02:23:39,900 - INFO - Successfully saved 5 fresh articles to MongoDB
+2024-11-13 02:23:49,345 - INFO - MongoDB connection closed
+2024-11-13 11:04:52,454 - WARNING - Python-dotenv could not parse statement starting at line 2
+2024-11-13 11:04:52,454 - WARNING - Python-dotenv could not parse statement starting at line 4
+2024-11-13 11:04:52,455 - WARNING - Python-dotenv could not parse statement starting at line 5
+2024-11-13 11:05:11,884 - INFO - Successfully connected to MongoDB
+2024-11-13 11:05:11,884 - INFO - Starting news fetcher scheduler - Running every 2 minutes with database refresh
+2024-11-13 11:05:11,884 - INFO - Starting news fetch cycle
+2024-11-13 11:05:13,480 - INFO - Cleared 5 articles from database
+2024-11-13 11:05:14,519 - INFO - Navigating to Google News...
+2024-11-13 11:05:44,672 - ERROR - Error during news fetch cycle: Page.goto: Timeout 30000ms exceeded.
+Call log:
+navigating to "https://news.google.com/home?hl=en-GB&gl=GB&ceid=GB:en", waiting until "load"
+
+2024-11-13 11:06:31,540 - INFO - MongoDB connection closed
+2024-11-13 11:06:35,521 - WARNING - Python-dotenv could not parse statement starting at line 2
+2024-11-13 11:06:35,522 - WARNING - Python-dotenv could not parse statement starting at line 4
+2024-11-13 11:06:35,522 - WARNING - Python-dotenv could not parse statement starting at line 5
+2024-11-13 11:06:36,712 - INFO - Successfully connected to MongoDB
+2024-11-13 11:06:36,720 - INFO - Starting news fetcher scheduler - Running every 2 minutes with database refresh
+2024-11-13 11:06:36,721 - INFO - Starting news fetch cycle
+2024-11-13 11:06:36,780 - INFO - Cleared 0 articles from database
+2024-11-13 11:06:37,529 - INFO - Navigating to Google News...
+2024-11-13 11:06:40,492 - INFO - Found content with selector: article a.JtKRv
+2024-11-13 11:06:45,629 - INFO - Fetching content for article 1/5: League tables to reveal failing NHS trusts
+2024-11-13 11:06:50,183 - INFO - Fetching content for article 2/5: Former aide Sue Gray rejects Keir Starmer’s job offer
+2024-11-13 11:06:53,885 - INFO - Fetching content for article 3/5: People rushed to hospital after car ploughs into busy street in central London
+2024-11-13 11:06:57,612 - INFO - Fetching content for article 4/5: Fresh row at BBC as host Mark Chapman refuses to share MOTD job with female star after Gary Lineker 
+2024-11-13 11:07:01,218 - INFO - Fetching content for article 5/5: Prince Harry's eight-word response when King Charles 'banned' Meghan Markle from Balmoral
+2024-11-13 11:07:05,219 - INFO - Successfully saved 5 fresh articles to MongoDB
+2024-11-13 11:07:54,510 - INFO - MongoDB connection closed
